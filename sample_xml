@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <link>http://www.archive.org/details/khanacademy</link>
+    <title>Internet Archive - Collection: khanacademy</title>
+    <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description>
+    <webMaster>info@archive.org (Info Box)</webMaster>
+    <pubDate>Sat, 12 Nov 2011 18:54:00 GMT</pubDate>
+    <image>
+      <url>http://www.archive.org/images/glogo.png</url>
+      <title>Internet Archive - Collection: khanacademy</title>
+      <link>http://www.archive.org/details/khanacademy</link>
+    </image>
+    <item>
+      <title>Finding Missing Angles</title>
+      <media:title>Finding Missing Angles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-z8BoVhTkaBw&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t2_we3 Finding Missing Angles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-z8BoVhTkaBw</link>
+      <guid>http://www.archive.org/details/KA-converted-z8BoVhTkaBw</guid>
+      <pubDate>Sat, 12 Nov 2011 12:06:12 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-z8BoVhTkaBw/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-z8BoVhTkaBw/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-z8BoVhTkaBw/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Identifying Rays</title>
+      <media:title>Identifying Rays</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-w9jEq6dmqPg&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t1_we1 Identifying Rays.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-w9jEq6dmqPg</link>
+      <guid>http://www.archive.org/details/KA-converted-w9jEq6dmqPg</guid>
+      <pubDate>Sat, 12 Nov 2011 12:05:40 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-w9jEq6dmqPg/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-w9jEq6dmqPg/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-w9jEq6dmqPg/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Acute Obtuse and Right Angles</title>
+      <media:title>Acute Obtuse and Right Angles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-qdYx4qk2UHU&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t1_we2 Acute Obtuse and Right Angles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-qdYx4qk2UHU</link>
+      <guid>http://www.archive.org/details/KA-converted-qdYx4qk2UHU</guid>
+      <pubDate>Sat, 12 Nov 2011 12:05:12 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-qdYx4qk2UHU/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-qdYx4qk2UHU/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-qdYx4qk2UHU/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Area of a Trapezoid</title>
+      <media:title>Area of a Trapezoid</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-qAs50nzzrP4&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t2_we2 Area of a Trapezoid.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-qAs50nzzrP4</link>
+      <guid>http://www.archive.org/details/KA-converted-qAs50nzzrP4</guid>
+      <pubDate>Sat, 12 Nov 2011 12:04:46 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-qAs50nzzrP4/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-qAs50nzzrP4/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-qAs50nzzrP4/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Identifying Complementary and Supplementary Angles</title>
+      <media:title>Identifying Complementary and Supplementary Angles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-o-TWOYoxjUo&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t2_we2 Identifying Complementary and Supplementary Angles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-o-TWOYoxjUo</link>
+      <guid>http://www.archive.org/details/KA-converted-o-TWOYoxjUo</guid>
+      <pubDate>Sat, 12 Nov 2011 12:04:15 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-o-TWOYoxjUo/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-o-TWOYoxjUo/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-o-TWOYoxjUo/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Identifying Parallel and Perpendicular Lines</title>
+      <media:title>Identifying Parallel and Perpendicular Lines</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-aq_XL6FrmGs&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t2_we1 Identifying Parallel and Perpendicular Lines.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-aq_XL6FrmGs</link>
+      <guid>http://www.archive.org/details/KA-converted-aq_XL6FrmGs</guid>
+      <pubDate>Sat, 12 Nov 2011 12:03:46 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-aq_XL6FrmGs/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-aq_XL6FrmGs/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-aq_XL6FrmGs/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Volume of a Composite Shape</title>
+      <media:title>Volume of a Composite Shape</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Q9vYvyvDzI8&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l3_t1_we3 Volume of a Composite Shape.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Q9vYvyvDzI8</link>
+      <guid>http://www.archive.org/details/KA-converted-Q9vYvyvDzI8</guid>
+      <pubDate>Sat, 12 Nov 2011 12:03:12 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Q9vYvyvDzI8/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Q9vYvyvDzI8/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Q9vYvyvDzI8/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Volume of a Sphere</title>
+      <media:title>Volume of a Sphere</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-IelS2vg7JO8&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l3_t1_we2 Volume of a Sphere.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-IelS2vg7JO8</link>
+      <guid>http://www.archive.org/details/KA-converted-IelS2vg7JO8</guid>
+      <pubDate>Sat, 12 Nov 2011 12:02:44 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-IelS2vg7JO8/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-IelS2vg7JO8/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-IelS2vg7JO8/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Perimeter and Area of a Non-Standard Polygon</title>
+      <media:title>Perimeter and Area of a Non-Standard Polygon</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-7S1MLJOG-5A&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t2_we3 Perimeter and Area of a Non-Standard Polygon.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-7S1MLJOG-5A</link>
+      <guid>http://www.archive.org/details/KA-converted-7S1MLJOG-5A</guid>
+      <pubDate>Sat, 12 Nov 2011 12:02:15 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-7S1MLJOG-5A/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-7S1MLJOG-5A/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-7S1MLJOG-5A/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Perimeter of a Polygon</title>
+      <media:title>Perimeter of a Polygon</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-5ZCKr4wTQvI&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t2_we1 Perimeter of a Polygon.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-5ZCKr4wTQvI</link>
+      <guid>http://www.archive.org/details/KA-converted-5ZCKr4wTQvI</guid>
+      <pubDate>Sat, 12 Nov 2011 12:01:45 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-5ZCKr4wTQvI/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-5ZCKr4wTQvI/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-5ZCKr4wTQvI/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Primaries and Caucuses</title>
+      <media:title>Primaries and Caucuses</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-z_QeYCg4yJ8&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;How states choose their delegates for the national party conventions (under CC-BY-SA license).&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-z_QeYCg4yJ8</link>
+      <guid>http://www.archive.org/details/KA-converted-z_QeYCg4yJ8</guid>
+      <pubDate>Fri, 11 Nov 2011 02:20:12 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-z_QeYCg4yJ8/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-z_QeYCg4yJ8/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-z_QeYCg4yJ8/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Solving Exponential Equations</title>
+      <media:title>Solving Exponential Equations</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-zHJpqliPTpc&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l4_t1_we1 Solving Exponential Equations.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-zHJpqliPTpc</link>
+      <guid>http://www.archive.org/details/KA-converted-zHJpqliPTpc</guid>
+      <pubDate>Fri, 11 Nov 2011 02:19:49 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-zHJpqliPTpc/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-zHJpqliPTpc/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-zHJpqliPTpc/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Interpretting Linear Graphs</title>
+      <media:title>Interpretting Linear Graphs</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-xR9r38mZjK4&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Interpretting Linear Graphs.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-xR9r38mZjK4</link>
+      <guid>http://www.archive.org/details/KA-converted-xR9r38mZjK4</guid>
+      <pubDate>Fri, 11 Nov 2011 02:19:23 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-xR9r38mZjK4/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-xR9r38mZjK4/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-xR9r38mZjK4/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Ordering Numeric Expressions</title>
+      <media:title>Ordering Numeric Expressions</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-w7k1YEcAaaE&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Converting percentages and fractions to decimals to order numbers.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-w7k1YEcAaaE</link>
+      <guid>http://www.archive.org/details/KA-converted-w7k1YEcAaaE</guid>
+      <pubDate>Fri, 11 Nov 2011 02:18:57 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-w7k1YEcAaaE/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-w7k1YEcAaaE/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-w7k1YEcAaaE/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Calculator for Natural Logarithms</title>
+      <media:title>Calculator for Natural Logarithms</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-r0eFSS8CN-Q&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we6 Calculator for Natural Logarithms.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-r0eFSS8CN-Q</link>
+      <guid>http://www.archive.org/details/KA-converted-r0eFSS8CN-Q</guid>
+      <pubDate>Fri, 11 Nov 2011 02:18:35 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-r0eFSS8CN-Q/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-r0eFSS8CN-Q/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-r0eFSS8CN-Q/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Calculator for Powers of 10</title>
+      <media:title>Calculator for Powers of 10</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-qRmlIfsbWQA&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we5 Calculator for Powers of 10.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-qRmlIfsbWQA</link>
+      <guid>http://www.archive.org/details/KA-converted-qRmlIfsbWQA</guid>
+      <pubDate>Fri, 11 Nov 2011 02:18:10 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-qRmlIfsbWQA/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-qRmlIfsbWQA/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-qRmlIfsbWQA/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Electoral College</title>
+      <media:title>Electoral College</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-oTbvYGH_Hiw&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;How we elect our President in the United States.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-oTbvYGH_Hiw</link>
+      <guid>http://www.archive.org/details/KA-converted-oTbvYGH_Hiw</guid>
+      <pubDate>Fri, 11 Nov 2011 02:17:42 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-oTbvYGH_Hiw/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-oTbvYGH_Hiw/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-oTbvYGH_Hiw/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Area of a Circle</title>
+      <media:title>Area of a Circle</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-lDKjX5ouoic&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t3_we3 Area of a Circle.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-lDKjX5ouoic</link>
+      <guid>http://www.archive.org/details/KA-converted-lDKjX5ouoic</guid>
+      <pubDate>Fri, 11 Nov 2011 02:17:14 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-lDKjX5ouoic/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-lDKjX5ouoic/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-lDKjX5ouoic/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Pythagorean Theorem Application</title>
+      <media:title>Pythagorean Theorem Application</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-l43fgfJ376c&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t4_we2 Pythagorean Theorem Application.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-l43fgfJ376c</link>
+      <guid>http://www.archive.org/details/KA-converted-l43fgfJ376c</guid>
+      <pubDate>Fri, 11 Nov 2011 02:16:42 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-l43fgfJ376c/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-l43fgfJ376c/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-l43fgfJ376c/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Social Security Intro</title>
+      <media:title>Social Security Intro</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-gLHUCUv1e5Y&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Basics on how social security works.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-gLHUCUv1e5Y</link>
+      <guid>http://www.archive.org/details/KA-converted-gLHUCUv1e5Y</guid>
+      <pubDate>Fri, 11 Nov 2011 02:16:14 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-gLHUCUv1e5Y/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-gLHUCUv1e5Y/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-gLHUCUv1e5Y/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Applying Logarithms 2</title>
+      <media:title>Applying Logarithms 2</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-_WIfQbcY4x4&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l4_t2_we2 Applying Logarithms 2.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-_WIfQbcY4x4</link>
+      <guid>http://www.archive.org/details/KA-converted-_WIfQbcY4x4</guid>
+      <pubDate>Fri, 11 Nov 2011 02:15:51 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-_WIfQbcY4x4/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-_WIfQbcY4x4/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-_WIfQbcY4x4/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Questions from Superinteressante (8-22-2011)</title>
+      <media:title>Questions from Superinteressante (8-22-2011)</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-YGIw-H0AtwU&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Answers for a magazine in Brazil.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-YGIw-H0AtwU</link>
+      <guid>http://www.archive.org/details/KA-converted-YGIw-H0AtwU</guid>
+      <pubDate>Fri, 11 Nov 2011 02:15:15 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-YGIw-H0AtwU/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-YGIw-H0AtwU/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-YGIw-H0AtwU/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Area and Perimeter of Composite Figures</title>
+      <media:title>Area and Perimeter of Composite Figures</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-WlGuG_VZl5c&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t3_we4 Area and Perimeter of Composite Figures.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-WlGuG_VZl5c</link>
+      <guid>http://www.archive.org/details/KA-converted-WlGuG_VZl5c</guid>
+      <pubDate>Fri, 11 Nov 2011 02:14:43 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-WlGuG_VZl5c/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-WlGuG_VZl5c/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-WlGuG_VZl5c/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Circumference of a Circle</title>
+      <media:title>Circumference of a Circle</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-WgW_KwtBvro&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t3_we2 Circumference of a Circle.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-WgW_KwtBvro</link>
+      <guid>http://www.archive.org/details/KA-converted-WgW_KwtBvro</guid>
+      <pubDate>Fri, 11 Nov 2011 02:14:10 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-WgW_KwtBvro/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-WgW_KwtBvro/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-WgW_KwtBvro/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Application of Similar Triangles</title>
+      <media:title>Application of Similar Triangles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-UgiRvl6iJzc&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t3_we5 Application of Similar Triangles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-UgiRvl6iJzc</link>
+      <guid>http://www.archive.org/details/KA-converted-UgiRvl6iJzc</guid>
+      <pubDate>Fri, 11 Nov 2011 02:13:40 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-UgiRvl6iJzc/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-UgiRvl6iJzc/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-UgiRvl6iJzc/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>FICA Tax</title>
+      <media:title>FICA Tax</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-UP9xy2eVj7s&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;How the FICA tax is calculated and what it stands for.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-UP9xy2eVj7s</link>
+      <guid>http://www.archive.org/details/KA-converted-UP9xy2eVj7s</guid>
+      <pubDate>Fri, 11 Nov 2011 02:13:11 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-UP9xy2eVj7s/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-UP9xy2eVj7s/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-UP9xy2eVj7s/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Using the Pythagorean Theorem</title>
+      <media:title>Using the Pythagorean Theorem</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-UJHONfWW9T0&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t4_we1 Using the Pythagorean Theorem.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-UJHONfWW9T0</link>
+      <guid>http://www.archive.org/details/KA-converted-UJHONfWW9T0</guid>
+      <pubDate>Fri, 11 Nov 2011 02:12:47 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-UJHONfWW9T0/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-UJHONfWW9T0/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-UJHONfWW9T0/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Similar Triangles Corresponding Sides and Angles</title>
+      <media:title>Similar Triangles Corresponding Sides and Angles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-ST2P6Sn3cuo&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t3_we3 Similar Triangles Corresponding Sides and Angles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-ST2P6Sn3cuo</link>
+      <guid>http://www.archive.org/details/KA-converted-ST2P6Sn3cuo</guid>
+      <pubDate>Fri, 11 Nov 2011 02:12:17 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-ST2P6Sn3cuo/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-ST2P6Sn3cuo/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-ST2P6Sn3cuo/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Applying Logarithms</title>
+      <media:title>Applying Logarithms</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-OKO41aLl8l8&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l4_t2_we1 Applying Logarithms.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-OKO41aLl8l8</link>
+      <guid>http://www.archive.org/details/KA-converted-OKO41aLl8l8</guid>
+      <pubDate>Fri, 11 Nov 2011 02:11:48 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-OKO41aLl8l8/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-OKO41aLl8l8/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-OKO41aLl8l8/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Vitamin C and the Limeys</title>
+      <media:title>Vitamin C and the Limeys</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Mp9II8MmuoA&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Sal and Dr. David Agus talk about the history of Scurvy and Vitamin C.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Mp9II8MmuoA</link>
+      <guid>http://www.archive.org/details/KA-converted-Mp9II8MmuoA</guid>
+      <pubDate>Fri, 11 Nov 2011 02:11:16 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Mp9II8MmuoA/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Mp9II8MmuoA/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Mp9II8MmuoA/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Solving Logarithmic Equations</title>
+      <media:title>Solving Logarithmic Equations</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Kv2iHde7Xgw&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l4_t1_we2 Solving Logarithmic Equations.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Kv2iHde7Xgw</link>
+      <guid>http://www.archive.org/details/KA-converted-Kv2iHde7Xgw</guid>
+      <pubDate>Fri, 11 Nov 2011 02:10:35 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Kv2iHde7Xgw/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Kv2iHde7Xgw/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Kv2iHde7Xgw/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Missing Measurements for Similar Triangles</title>
+      <media:title>Missing Measurements for Similar Triangles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-JfqLblHox3o&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t3_we4 Missing Measurements for Similar Triangles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-JfqLblHox3o</link>
+      <guid>http://www.archive.org/details/KA-converted-JfqLblHox3o</guid>
+      <pubDate>Fri, 11 Nov 2011 02:10:02 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-JfqLblHox3o/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-JfqLblHox3o/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-JfqLblHox3o/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Identifying Geometric Solids</title>
+      <media:title>Identifying Geometric Solids</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Cn3QiGlklRI&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l3_t1_we1 Identifying Geometric Solids.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Cn3QiGlklRI</link>
+      <guid>http://www.archive.org/details/KA-converted-Cn3QiGlklRI</guid>
+      <pubDate>Fri, 11 Nov 2011 02:09:29 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Cn3QiGlklRI/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Cn3QiGlklRI/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Cn3QiGlklRI/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Systemic Thinking About Cancer</title>
+      <media:title>Systemic Thinking About Cancer</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-7zk0ubr_lzo&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Dr. David Agus discusses thinking systemically about cancer and other things.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-7zk0ubr_lzo</link>
+      <guid>http://www.archive.org/details/KA-converted-7zk0ubr_lzo</guid>
+      <pubDate>Fri, 11 Nov 2011 02:09:00 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-7zk0ubr_lzo/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-7zk0ubr_lzo/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-7zk0ubr_lzo/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Calculator for Logarithms</title>
+      <media:title>Calculator for Logarithms</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-6ZGQkGZf6sw&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we7 Calculator for Logarithms.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-6ZGQkGZf6sw</link>
+      <guid>http://www.archive.org/details/KA-converted-6ZGQkGZf6sw</guid>
+      <pubDate>Fri, 11 Nov 2011 02:08:19 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-6ZGQkGZf6sw/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-6ZGQkGZf6sw/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-6ZGQkGZf6sw/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>The Golden Ratio</title>
+      <media:title>The Golden Ratio</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-5zosU6XTgSY&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;An introduction to one of the most amazing ideas/numbers in mathematics.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-5zosU6XTgSY</link>
+      <guid>http://www.archive.org/details/KA-converted-5zosU6XTgSY</guid>
+      <pubDate>Fri, 11 Nov 2011 02:07:51 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-5zosU6XTgSY/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-5zosU6XTgSY/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-5zosU6XTgSY/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Quadrilateral Properties</title>
+      <media:title>Quadrilateral Properties</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-5CeBlu260Rw&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t1_we1 Quadrilateral Properties.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-5CeBlu260Rw</link>
+      <guid>http://www.archive.org/details/KA-converted-5CeBlu260Rw</guid>
+      <pubDate>Fri, 11 Nov 2011 02:07:16 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-5CeBlu260Rw/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-5CeBlu260Rw/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-5CeBlu260Rw/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Congruent and Similar Triangles</title>
+      <media:title>Congruent and Similar Triangles</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-0mKmYxuMirE&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l1_t3_we2 Congruent and Similar Triangles.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-0mKmYxuMirE</link>
+      <guid>http://www.archive.org/details/KA-converted-0mKmYxuMirE</guid>
+      <pubDate>Fri, 11 Nov 2011 02:06:44 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-0mKmYxuMirE/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-0mKmYxuMirE/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-0mKmYxuMirE/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Parts of a Circle</title>
+      <media:title>Parts of a Circle</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-04N79tItPEA&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u07_l2_t3_we1 Parts of a Circle.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-04N79tItPEA</link>
+      <guid>http://www.archive.org/details/KA-converted-04N79tItPEA</guid>
+      <pubDate>Fri, 11 Nov 2011 02:06:09 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-04N79tItPEA/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-04N79tItPEA/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-04N79tItPEA/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Deficit and Debt Ceiling</title>
+      <media:title>Deficit and Debt Ceiling</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted--05OfTp6ZEE&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;Basic of the deficit, debt and debt ceiling.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted--05OfTp6ZEE</link>
+      <guid>http://www.archive.org/details/KA-converted--05OfTp6ZEE</guid>
+      <pubDate>Fri, 11 Nov 2011 02:05:43 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted--05OfTp6ZEE/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted--05OfTp6ZEE/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted--05OfTp6ZEE/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Graphing Natural Logarithm Function</title>
+      <media:title>Graphing Natural Logarithm Function</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-xmjy-0TxgI8&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we2 Graphing Natural Logarithm Function.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-xmjy-0TxgI8</link>
+      <guid>http://www.archive.org/details/KA-converted-xmjy-0TxgI8</guid>
+      <pubDate>Thu, 10 Nov 2011 12:10:38 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-xmjy-0TxgI8/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-xmjy-0TxgI8/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-xmjy-0TxgI8/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Logarithmic Equations 2</title>
+      <media:title>Logarithmic Equations 2</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-vtStuLV-HvQ&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t1_we2 Logarithmic Equations 2.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-vtStuLV-HvQ</link>
+      <guid>http://www.archive.org/details/KA-converted-vtStuLV-HvQ</guid>
+      <pubDate>Thu, 10 Nov 2011 12:09:39 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-vtStuLV-HvQ/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-vtStuLV-HvQ/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-vtStuLV-HvQ/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Sum of Logarithms with Same Base</title>
+      <media:title>Sum of Logarithms with Same Base</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-pkGrXzakRFs&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t2_we1 Sum of Logarithms with Same Base.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-pkGrXzakRFs</link>
+      <guid>http://www.archive.org/details/KA-converted-pkGrXzakRFs</guid>
+      <pubDate>Thu, 10 Nov 2011 12:09:14 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-pkGrXzakRFs/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-pkGrXzakRFs/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-pkGrXzakRFs/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Solving Logarithmic Equations</title>
+      <media:title>Solving Logarithmic Equations</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-oqAYqT70EBQ&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t1_we4 Solving Logarithmic Equations.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-oqAYqT70EBQ</link>
+      <guid>http://www.archive.org/details/KA-converted-oqAYqT70EBQ</guid>
+      <pubDate>Thu, 10 Nov 2011 12:08:46 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-oqAYqT70EBQ/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-oqAYqT70EBQ/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-oqAYqT70EBQ/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Difference of Logarithms with Same Base</title>
+      <media:title>Difference of Logarithms with Same Base</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-m9xVp6p7MTU&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t2_we2 Difference of Logarithms with Same Base.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-m9xVp6p7MTU</link>
+      <guid>http://www.archive.org/details/KA-converted-m9xVp6p7MTU</guid>
+      <pubDate>Thu, 10 Nov 2011 12:07:40 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-m9xVp6p7MTU/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-m9xVp6p7MTU/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-m9xVp6p7MTU/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Using Multiple Logarithm Properties to Simplify</title>
+      <media:title>Using Multiple Logarithm Properties to Simplify</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-RhzXX5PbsuQ&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t2_we4 Using Multiple Logarithm Properties to Simplify.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-RhzXX5PbsuQ</link>
+      <guid>http://www.archive.org/details/KA-converted-RhzXX5PbsuQ</guid>
+      <pubDate>Thu, 10 Nov 2011 12:05:46 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-RhzXX5PbsuQ/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-RhzXX5PbsuQ/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-RhzXX5PbsuQ/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Logarithm of a Power</title>
+      <media:title>Logarithm of a Power</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Pb9V374iOas&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t2_we3 Logarithm of a Power.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Pb9V374iOas</link>
+      <guid>http://www.archive.org/details/KA-converted-Pb9V374iOas</guid>
+      <pubDate>Thu, 10 Nov 2011 12:05:16 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Pb9V374iOas/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Pb9V374iOas/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Pb9V374iOas/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Change of Base Formula</title>
+      <media:title>Change of Base Formula</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-OkFdDqW9xxM&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we3 Change of Base Formula.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-OkFdDqW9xxM</link>
+      <guid>http://www.archive.org/details/KA-converted-OkFdDqW9xxM</guid>
+      <pubDate>Thu, 10 Nov 2011 12:04:49 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-OkFdDqW9xxM/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-OkFdDqW9xxM/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-OkFdDqW9xxM/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Graphing Logarithmic Functions</title>
+      <media:title>Graphing Logarithmic Functions</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-DuYgVVU_BwY&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l2_t1_we3 Graphing Logarithmic Functions.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-DuYgVVU_BwY</link>
+      <guid>http://www.archive.org/details/KA-converted-DuYgVVU_BwY</guid>
+      <pubDate>Thu, 10 Nov 2011 12:03:54 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-DuYgVVU_BwY/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-DuYgVVU_BwY/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-DuYgVVU_BwY/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+    <item>
+      <title>Natural Logarithm with a Calculator</title>
+      <media:title>Natural Logarithm with a Calculator</media:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="http://www.archive.org/services/get-item-image.php?identifier=KA-converted-Dpo_-GrMpNE&amp;mediatype=movies&amp;collection=khanacademy"/&gt;&lt;p&gt;u18_l3_t1_we1 Natural Logarithm with a Calculator.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/khanacademy.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, JPEG Thumb, MPEG4, Metadata, Ogg Video, PNG, Thumbnail&lt;/p&gt;</description>
+      <link>http://www.archive.org/details/KA-converted-Dpo_-GrMpNE</link>
+      <guid>http://www.archive.org/details/KA-converted-Dpo_-GrMpNE</guid>
+      <pubDate>Thu, 10 Nov 2011 12:03:26 GMT</pubDate>
+      <category>movies/khanacademy</category>
+      <media:thumbnail url="http://www.archive.org/download/KA-converted-Dpo_-GrMpNE/format=Thumbnail"/>
+      <media:content url="http://www.archive.org/download/KA-converted-Dpo_-GrMpNE/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="http://www.archive.org/download/KA-converted-Dpo_-GrMpNE/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>Salman Khan, Khan Academy</media:keywords>
+    </item>
+  </channel>
+</rss>
