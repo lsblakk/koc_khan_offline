@@ -37,7 +37,7 @@ def download_videos(categories, formats, flash=False, dryrun=False):
                 if os.path.exists(filepath) and os.stat(filepath).st_size > 0:
                     print "%s already downloaded" % readable_id
                 else:
-                    #first try archive.org, download speed is faster  
+                    # first try archive.org, download speed is faster  
                     try:
                         if format == '.mp4':
                             url = ARCHIVE_URL + "_" + category + "/" + readable_id + "_512kb" +  format
@@ -46,16 +46,19 @@ def download_videos(categories, formats, flash=False, dryrun=False):
                         urlfile = urllib.urlopen(url)
                         if dryrun:
                             print "DRYRUN: To be downloaded from archive.org: ", url
+                            # TODO print out the file type of what's at the url
                         else:
+                            # TODO confirm url is a video and not html here
                             print "Downloading: ", url
                             urlretrieve(urlfile, filepath)
+                            if os.stat(filepath).st_size == 0:
+                                os.remove(filepath)
+                                print "Removing empty file: ", filepath
                     except:        
                         traceback.print_exc()
                         # We're not going to download from YouTube as the exception handling
                         #os.system('python ../youtube-dl.py -f 34 -icw -o "' + folder + '/' + readable_id + '.flv" http://www.youtube.com/watch?v=' + youtube_id)
-                    if os.stat(filepath).st_size == 0:
-                        os.remove(filepath)
-                        print "Removing empty file: ", filepath
+                    
 
 if __name__ == '__main__':
     parser = OptionParser(__doc__)
@@ -65,8 +68,9 @@ if __name__ == '__main__':
             dryrun=False,
             flash_fallback=True,
             list_categories=False,
-            categories='Geometry',
+            categories='Calculus',
             )
+    # update is not implemented yet
     parser.add_option("-u", "--update", dest="update", action="store_true",
             help="don't bother downloading the entire video_mapping, check rss for new videos and download")
     parser.add_option("-d", "--dryrun", dest="dryrun", action="store_true",
@@ -76,7 +80,7 @@ if __name__ == '__main__':
     parser.add_option("-l", "--list", dest="list_categories", action="store_true",
             help="list the available categories which contain videos")
     parser.add_option("-c", "--categories", dest="categories",
-            help="specify the categories to download videos for")
+            help="specify the categories to download videos for (comma separated list)")
     parser.add_option("--flash-fallback", dest="flash_fallback", action="store_true",
             help="if format(s) specified not available, download flash version if exists")
 

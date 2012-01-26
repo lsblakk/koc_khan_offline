@@ -15,7 +15,11 @@ d) use json output from archive.org to build the information instead of a hard-c
 
 TODO:
 
+* Check for file type of url - is video _good_ is html _bad_ (don't download those!)
+* keep a list of what doesn't resolve at the time and look at why
+* gather all correct video urls, write to file so that there's persistence in getting all new vids
 * SMS if there are updates available (twilio)
 * Create our own 'readable_id' in the mappings for new additions based on title.tolower() s/ /_
 * integrate youTube downloading not as an exception handling case
 * better handling for keyboard interupt while downloading (incomplete file downloads)
+* easter egg - download one monty python video :)
