@@ -9,7 +9,7 @@ Windows (using google app engine) and so this version of the tool took the pytho
 http://code.google.com/p/khanacademy/downloads/detail?name=KhanAcademy-1482.zip&can=2&q= and have been adapting them to
 
 a) work with other video formats (mp4, ogg) that exist on archive.org
-b) allow for updating of the canonical list of available videos based on the archive.org rss free
+b) allow for updating of the canonical list of available videos based on the archive.org rss feed
 c) provide a command-line interface for interacting with this tool
 d) use json output from archive.org to build the information instead of a hard-coded mapping that can get out of date
 
