@@ -39,6 +39,7 @@ def download_videos(categories, formats, flash=False, dryrun=False):
                 else:
                     # first try archive.org, download speed is faster  
                     try:
+                        # sample url: http://www.archive.org/download/KA-converted-rAof9Ld5sOg/rAof9Ld5sOg.mp4
                         if format == '.mp4':
                             url = ARCHIVE_URL + "_" + category + "/" + readable_id + "_512kb" +  format
                         else:
@@ -68,7 +69,7 @@ if __name__ == '__main__':
             dryrun=False,
             flash_fallback=True,
             list_categories=False,
-            categories='Calculus',
+            categories='Geometry',
             )
     # update is not implemented yet
     parser.add_option("-u", "--update", dest="update", action="store_true",
@@ -93,7 +94,7 @@ if __name__ == '__main__':
     if options.list_categories:
         print "Available categories: "
         for k in video_mapping.keys():
-            print k
+            print 'http://www.archive.org/download/KhanAcademy_%s' % k
         sys.exit(1)
 
     if options.categories == 'all':

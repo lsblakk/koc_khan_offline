@@ -9,17 +9,21 @@ Windows (using google app engine) and so this version of the tool took the pytho
 http://code.google.com/p/khanacademy/downloads/detail?name=KhanAcademy-1482.zip&can=2&q= and have been adapting them to
 
 a) work with other video formats (mp4, ogg) that exist on archive.org
-b) allow for updating of the canonical list of available videos based on the archive.org rss feed
-c) provide a command-line interface for interacting with this tool
-d) use json output from archive.org to build the information instead of a hard-coded mapping that can get out of date
+b) provide a command-line interface for interacting with this tool
+c) create a web interface to interact with the local video storage
 
 TODO:
 
-* Check for file type of url - is video _good_ is html _bad_ (don't download those!)
-* keep a list of what doesn't resolve at the time and look at why
-* gather all correct video urls, write to file so that there's persistence in getting all new vids
+* remove video_mapping.py and replace with a list of the known categories in download.py
+
+adjust download.py:
+* to read each category's url (eg: http://www.archive.org/download/KhanAcademy_Geometry) and process list of filenames in each (as requested through the command line args for -c categories)
+* check if each video exists in local video/ dir before trying to download
+** if not already downloaded, download each unique filename with a format that matches the requested list of formats to the video/ dir
+** else, skip it
+* write an index page in the top level of koc_khan_offline that displays the content of the video dir so users can interact with the videos through that
+
+Nice to have:
+* keep a list of what doesn't download (or how far the script runs until?)
 * SMS if there are updates available (twilio)
-* Create our own 'readable_id' in the mappings for new additions based on title.tolower() s/ /_
-* integrate youTube downloading not as an exception handling case
-* better handling for keyboard interupt while downloading (incomplete file downloads)
 * easter egg - download one monty python video :)
